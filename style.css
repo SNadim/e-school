@@ -38,3 +38,115 @@ header{
 .header-content span{
     color: #21B573;;
 }
+.color{
+    padding: 100px;
+    background-color: pink;
+}
+.color:hover{
+    background-color: plum;
+    cursor: pointer;
+}
+.basic-info{
+    margin-top: 50px;
+}
+.info{
+    text-align: center;
+    height: 270px;
+    width: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.info img{
+    width: 30%;
+}
+.info:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.info h4{
+    font-weight: 500;
+    size: 24px;
+    line-height: 36px;
+    padding-top: 20px;
+}
+.info p{
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.courses h3{
+    size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.card{
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.card-item h5{
+    size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+
+}
+.card-item p{
+    size: 16px;
+    line-height: 24px;
+    color: #585859;
+
+}
+.card-item{
+    margin: 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.testimonial h3{
+    padding-bottom: 100px;
+    line-height: 54px;
+    font-weight: 700;
+    text-align: center;
+}
+.testimonial img{
+    width: 120px;
+    height: 120pxs;
+}
+.testimonial p{
+    font-weight: 400;
+    size: 16px;
+    line-height: 36px;
+}
+footer{
+    padding:55px 136px;
+    background-color: #282531;
+    color: white;
+
+}
+footer h6{
+    font-weight: 700;
+    size: 18px;
+    line-height: 30px;
+}
+footer ul{
+    list-style: none;
+    margin-left: -30px;
+    line-height: 36px;
+
+}
+footer small{
+    color: #CDCDCD;
+    font-weight: 400;
+    size: 16px;
+    line-height: 30px;
+    margin-top: 100px;
+
+}
+footer .container{
+
+    padding-bottom: 0;
+}
